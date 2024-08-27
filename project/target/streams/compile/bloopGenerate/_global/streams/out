@@ -1,0 +1,4 @@
+[debug] [empty-scala-build] Classpath dependencies List()
+[debug] [empty-scala-build] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'empty-scala-build' to '/workspace/empty-scala/project/.bloop/empty-scala-build.json'
+[success] Generated .bloop/empty-scala-build.json

@@ -1,0 +1,4 @@
+[debug] [empty-scala-test] Classpath dependencies List()
+[debug] [empty-scala-test] Dependencies from configurations List(empty-scala)
+[debug] Bloop wrote the configuration of project 'empty-scala-test' to '/workspace/empty-scala/.bloop/empty-scala-test.json'
+[success] Generated .bloop/empty-scala-test.json
